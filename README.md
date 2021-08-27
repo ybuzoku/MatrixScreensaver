@@ -1,10 +1,8 @@
 A Matrix themed screensaver for IBM PC-XT class machines running IBM-DOS.
 
 Hardware requirements:
-
--PC XT class machine
-
--MDA/Hercules card or compatible.
+- PC XT class machine
+- MDA/Hercules card or compatible.
 
 This first release is a short program that runs in text mode, to produce an effect similar to the Matrix rain from the popular movie "The Matrix". 
 For the effect to look truly authentic, an IBM 5151 monitor or similar is recommended (A CRT with P39 phosphor).
