@@ -1,4 +1,4 @@
-A Matrix themed screensaver for IBM PC-XT class machines running IBM-DOS.
+A Matrix themed screensaver for IBM PC-XT class machines running IBM-DOS. Beta Version.
 
 Hardware requirements:
 - PC XT class machine
