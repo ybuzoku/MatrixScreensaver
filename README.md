@@ -19,6 +19,6 @@ Features that are to come:
 This program was written and tested on an IBM PC XT running IBM DOS 3.3 and assembled with MASM 4.
 
 If any bugs are encountered (and it is extremely likely that bugs exist as this was written in roughly a couple of hours), please 
-dont hesitate to contact me on by filing a bugfix request, on my reddit u\ylli122 or by email at ybuzoku@hotmail.co.uk
+dont hesitate to contact me on by filing a bugfix request, on my reddit u/ylli122 or by email at ybuzoku@hotmail.co.uk
 
-Consider this a beta! Enjoy! :D 
+Consider this a beta test! Enjoy! :D 
